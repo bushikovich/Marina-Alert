@@ -1,0 +1,19 @@
+.body {
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: white;
+  }
+.img{
+    max-width: 40%;
+    max-height: 40%;
+}
+.form{
+    background-color: rgba(0, 0, 0, 0);
+    width: 600px;
+    height: auto;
+    /* Определим контур формы */
+    padding: 1em;
+    border: 1px solid #CCC;
+    border-radius: 1em;
+}
